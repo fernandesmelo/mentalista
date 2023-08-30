@@ -36,9 +36,11 @@ Não há testes automatizados neste projeto.
 
 ## 🔨 Decisões de Tecnologia
 
-* **HTML:** Utilizado para criar a estrutura da página, incluindo a entrada e botão.
-* **CSS:** Utilizado para estilizar o jogo, tornando-o visualmente atraente.
-* **JavaScript:** Utilizado para criar a funcionalidade do jogo, gerar o número secreto e comparar o chute do usuário.
+<div style="display: inline-block"><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+  <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</div><br/>
 
 ## 👨🏽‍💻 Versão das Tecnologias
 
