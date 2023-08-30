@@ -1,6 +1,6 @@
 # Mentalista
 
-Um jogo chmado [Mentalista](https://fernandesmelo.github.io/conversor-de-moedas/) interativo onde o usuário deve adivinhar um número secreto de 0 a 10. O mesmo desenvolvi através da Imersão Dev da Alura que é uma semana de aulas intensas de Devs para Devs, onde criamos projetos do zero, com suporte de comunidade, lives e discussões aprofundadas de tecnologia.
+Um jogo interativo chamado [Mentalista](https://fernandesmelo.github.io/conversor-de-moedas/) onde o usuário deve adivinhar um número secreto de 0 a 10. O mesmo desenvolvi através da Imersão Dev da Alura que é uma semana de aulas intensas de Devs para Devs, onde criamos projetos do zero, com suporte de comunidade, lives e discussões aprofundadas de tecnologia.
 
 ![Captura de tela 2023-08-30 143342](https://github.com/fernandesmelo/mentalista/assets/113717317/8edc95ed-d844-4814-914b-b4982f34e13d)
 
@@ -30,11 +30,9 @@ Não há testes automatizados neste projeto.
 
 ## 🔨 Decisões de Tecnologia
 
-* **HTML**: Escolhido para estruturar a página web de forma semântica e acessível.
-
-* **CSS**: Utilizado para estilização, garantindo uma interface atraente e responsiva.
-
-* **JavaScript**: Utilizado para adicionar a funcionalidade de conversão de moedas.
+* **HTML:** Utilizado para criar a estrutura da página, incluindo a entrada e botão.
+* **CSS:** Utilizado para estilizar o jogo, tornando-o visualmente atraente.
+* **JavaScript:** Utilizado para criar a funcionalidade do jogo, gerar o número secreto e comparar o chute do usuário.
 
 ## 👨🏽‍💻 Versão das Tecnologias
 
@@ -51,4 +49,4 @@ Não há testes automatizados neste projeto.
 * Compartilhe este projeto 📢;
 * Convide alguém da equipe para um café virtual ☕;
 * Agradeço a [Paulo Silveira](https://www.linkedin.com/in/paulosilveira/) que apresentou a Imersão Dev e aos instrutores [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-developer/) e [Rafaella Ballerine](https://www.linkedin.com/in/rafaellaballerini/) por nos guiar nos projetos 🫂;
-a
+
