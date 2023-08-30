@@ -1,6 +1,6 @@
 # Mentalista
 
-Um jogo interativo chamado [Mentalista](https://fernandesmelo.github.io/conversor-de-moedas/) onde o usuário deve adivinhar um número secreto de 0 a 10. O mesmo desenvolvi através da Imersão Dev da Alura que é uma semana de aulas intensas de Devs para Devs, onde criamos projetos do zero, com suporte de comunidade, lives e discussões aprofundadas de tecnologia.
+Um jogo interativo chamado [Mentalista](https://fernandesmelo.github.io/mentalista/) onde o usuário deve adivinhar um número secreto de 0 a 10. O mesmo desenvolvi através da Imersão Dev da Alura que é uma semana de aulas intensas de Devs para Devs, onde criamos projetos do zero, com suporte de comunidade, lives e discussões aprofundadas de tecnologia.
 
 ![Captura de tela 2023-08-30 143342](https://github.com/fernandesmelo/mentalista/assets/113717317/8edc95ed-d844-4814-914b-b4982f34e13d)
 
