@@ -4,13 +4,27 @@ Um jogo interativo chamado [Mentalista](https://fernandesmelo.github.io/mentalis
 
 ![Captura de tela 2023-08-30 143342](https://github.com/fernandesmelo/mentalista/assets/113717317/8edc95ed-d844-4814-914b-b4982f34e13d)
 
+O projeto "Mentalista" é um jogo de adivinhação onde o jogador tenta acertar um número escolhido aleatoriamente pela máquina. Suas funcionalidades principais são:
+
+✅ *Entrada de Número*: O jogador pode inserir um número na caixa de entrada, tentando adivinhar qual é o número secreto escolhido pela máquina.
+
+✅ *Botão de Chute*: Ao clicar no botão "Chutar", o número inserido pelo jogador é comparado com o número secreto e o jogo exibe se o jogador acertou ou errou.
+
+✅ *Feedback de Resultado*: O jogo exibe uma mensagem de feedback para o jogador, indicando se o número inserido é igual ao número secreto, se é maior ou menor.
+
+✅ *Validação de Entrada*: O jogo verifica se o número inserido pelo jogador está dentro do intervalo permitido (0 a 10) e dá feedback caso contrário.
+
+✅ *Atualização Visual*: O resultado da adivinhação é exibido visualmente na página, fornecendo uma experiência interativa para o jogador.
+
+Essas funcionalidades criam uma experiência de jogo simples e envolvente, onde o jogador tenta adivinhar o número secreto escolhido pela máquina em um número limitado de tentativas.
+
 ## 🚀 Começando
 
 Essas instruções permitirão que você tenha uma cópia do projeto em execução na sua máquina local para desenvolvimento e testes.
 
 ### 📋 Pré-requisitos
 
-Você precisa ter instalado um navegador web para visualizar o projeto localmente e o VSCode para ter acesso aos códigos no seu sistema operacional.
+Você precisa ter instalado no seu sistema operacional um navegador web para visualizar o projeto localmente e o VSCode para ter acesso aos códigos.
 
 ### 🔧 Instalação
 
