@@ -48,7 +48,7 @@ Próximos passos...
 * **CSS** - Linguagem de Estilização para páginas Web.
 * **JavaScript** - Linguagem de Programação que dá funcionalidades a páginas Web.
 
-## 🔨 Decisões de Tecnologia
+## 🔨 Tomada de Decisões
 
 <div style="display: inline-block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
